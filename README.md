@@ -24,3 +24,7 @@ $ vim $ /User/user_folder/.ssh/config
    IdentityFile ~/.ssh/id_rsa
    IdentityFile ~/.ssh/id_rsa2
 ```
+
+## Gist
+
+Link: https://gist.github.com/ralcorta/4008bde40ba99299e27d031b19d89098
